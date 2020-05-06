@@ -22,8 +22,8 @@ int main(int argc, char const *argv[])
 	};
 
 	const float fLengte = 300.0f;
-	const float fValversnelling = 9.81;
-	float fBeginhoek = -PI/2;
+	const float fValversnelling = 981.0f;
+	float fBeginhoek = -PI / 2;
 	float fHoek;
 	float x; float y;
 
